@@ -1,3 +1,5 @@
+#Thank you to Henry Fisher for helping me out with some of these functions
+
 # Add a declarative step here for populating the DB with movies.
 
 Given /the following movies exist/ do |movies_table|
